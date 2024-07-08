@@ -11,5 +11,6 @@ int main()
          << "A - B = " << a - b << '\n'
          << "A * B = " << a * b << '\n'
          << "A / B = " << a / b << '\n'
-         << "min: A and B" << min(a, b) << '\n';
+         << "min: A and B" << min(a, b) << '\n'
+         << "max: A and B" << max(a, b) << '\n';
 }
